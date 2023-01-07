@@ -3,7 +3,7 @@
     margin: 0 auto;
 }
 
-/* header styles start */
+/* header styles */
 .primary-button{
     background-color: #F15B22;
     border: none;
@@ -40,16 +40,15 @@
 .contact-us-btn{
     float: right;
 }
-/* header section end */
 
-/* Failure section started */
+/* Failure section styles */
 
 /* font awesome icon color start */
 .fa-check{
     color: #5BD485;
 }
-/* font awesome icon color end */
-.my-failures{
+
+.failures, .achievement{
     display: flex;
     width: 1140px;
     margin: 130px auto;
@@ -60,11 +59,11 @@
 .failur-right{
     margin-left: 90px;
 }
-.failure-headline{
+.failure-title, .achievement-title{
     font-weight: 700;
     font-size: 40px;
 }
-.failure-description{
+.failure-descriptio, .achievement-description{
     font-size: 16px;
     margin: 24px 0 16px 0;
 }
@@ -76,9 +75,8 @@ ul li{
 ul{
 padding-left: 0px;
 }
-/* Failure section end */
 
-/* My plan section start */
+/* My plan section styles */
 .my-plan{
 width: 1140px;
 margin-bottom: 90px;
@@ -104,9 +102,7 @@ margin-bottom: 50px;
     font-size: 18px;
 }
 
-/* My plan section end */
-
-/* Positive mindset section start */
+/* Positive mindset section styles */
 .positive-mindset{
     width: 900px;
     margin: 0 auto;
@@ -130,9 +126,8 @@ margin-bottom: 50px;
     font-size: 18px;
     color: #F15B22;
 }
-/* Positive mindset section end */
 
-/* Footer section style start */
+/* Footer section styles */
 footer{
     background-color: black;
     margin-top: 130px;
