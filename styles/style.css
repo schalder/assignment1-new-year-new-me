@@ -19,7 +19,7 @@
     height: 500px;
     padding: 120px 50px;
     background-color: #F3F3F3;
-    background-image: url('/assets/images/banner/banner2.png');
+    background-image: url('assets/images/banner/banner2.png');
     background-repeat: no-repeat;
 }
 .header-elements{
